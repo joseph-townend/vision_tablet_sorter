@@ -1,2 +1,2 @@
 # vision_tablet_sorter
-The code / files for my vision based tablet classification and sorting system
+These files will need re-addressing in the new users' machine. This can be achieved by replacing the file addresses

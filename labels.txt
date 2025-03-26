@@ -1,0 +1,5 @@
+0 ibuprofen
+1 paracetamol
+2 cetirizine
+3 aspirin
+4 broken
